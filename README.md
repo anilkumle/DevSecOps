@@ -10,6 +10,8 @@ Seamless developer experience with automated checks
 Compliance with security standards
 
 
+![image](https://github.com/user-attachments/assets/9b355b6d-b44d-42b7-864f-5203750f62c7)
+
 
 **Overview of DevSecOps Pipeline**
 Integrating security throughout the software development lifecycle
